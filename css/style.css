@@ -1,0 +1,108 @@
+*{
+    max-width: 900px;
+    margin: auto;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+body{
+    background-image: url(../img/bg2.png);
+    background-repeat: no-repeat;
+}
+p{
+    font-size: 21px;
+}
+#pag1{
+    font-size: 21px;
+}
+
+#perfil{
+    float: right;
+    padding-right: 30px;
+    padding-top: 60px;
+}
+h3{
+    padding-top: 40px;
+    font-size: 18px;
+}
+#pag1 h1{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.conteiner{
+    width: 455px;
+    max-height: 450px;
+    display: inline-block;
+}
+.conteiner2{
+    width: 455px;
+    max-height: 450px;
+    padding-top: 30px;
+    display: inline-block;
+}
+#texto-direita{
+    float: right;
+    text-align: right;
+    width: 300px;
+    max-height: 350px;  
+    margin-right: 50px;  
+}
+.conteiner3{
+    max-width: 850px;
+    padding-top: 35px;
+    display: inline-block;
+}
+h2{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-size: 18px;
+}
+#pag2{
+    font-size: 21px;
+}
+#pag2 h1{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+#img2{
+    float: right;
+
+}
+.conteiner4{
+    width: 600px;
+    max-height: 450px;
+    display: inline-block;
+}
+.conteiner4 p {
+    padding-bottom: 20px;
+}
+#pag3 h1{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+#pag3 h2{
+    font-size: 30px;
+}
+#num-direita{
+    float: right;
+    width: 400px;
+    text-align: left;
+}
+.conteiner5{
+    max-width: 455px;
+    display: inline-block;
+}
+.conteiner6{
+    width: 400px;
+    float: right;
+}
+#txtpag3{
+    float: right;
+    width: 400px;
+    text-align: left;
+}
+#txt2{
+    float: right;
+    width: 400px;
+    text-align: left;
+}
